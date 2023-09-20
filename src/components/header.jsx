@@ -1,17 +1,28 @@
-import { Link, Outlet } from "react-router-dom"
-// import IMAGES from '../images/images.jsx'
+import { Link, useLocation } from 'react-router-dom';
+import IMAGES from '../images/images.jsx'
+import { GrUserSettings, GrLogout } from "react-icons/gr";
 
 export const HEADER = () => {
+
+  const location = useLocation();
+  
+    if (location.pathname === '/login') {
+      return ("");
+    }
+
   return (
     <>
-        <header className="header__root">
-            <Link to='/' className="logo" > 
-              {/* <img src={IMAGES.image1} alt="Nourish me" />             */}
-            </Link>
-            <button className="settings"></button>
-            <button className="log__out"></button>
-        </header>
-        <Outlet />
+      <header className="header__root">
+        <Link to="/home">
+          <img src={IMAGES.image1} className="logo__header" alt="Nourish me" />
+        </Link>
+        <Link to="/settings">
+          <span id="GrUserSettings"><GrUserSettings /></span>
+        </Link>
+        <Link to="/login">
+          <span id="GrLogout"><GrLogout /></span>
+        </Link>
+      </header>
     </>
   )
 }

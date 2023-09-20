@@ -20,7 +20,7 @@ export function LOGIN() {
                   <label>Contraseña</label>
               </div>
               <div className="btn__form">
-                <button type="submit">Ingresar</button>
+                <button type="submit" className="btn__logIn">Ingresar</button>
               </div>
           </form>
           <small className="copyright">&copy; 2023 Khaos Company</small>

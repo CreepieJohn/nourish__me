@@ -1,13 +1,16 @@
-.header__root,
-footer {
+.header__root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
     height: 7rem;
-    background-color: #008095;
+    background-color: #007990;
 }
 
-.logo {
+.logo__header {
     height: 7rem;
 }
+
 
 .navigation {
     display: flex;
@@ -61,4 +64,10 @@ footer {
     top: 50%;
     font-size: large;
     color: #fff;
+}
+
+footer {
+    width: 100%;
+    height: 7rem;
+    background-color: #007990;
 }
