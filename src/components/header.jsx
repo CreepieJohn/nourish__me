@@ -6,7 +6,7 @@ export const HEADER = () => {
 
   const location = useLocation();
   
-    if (location.pathname === '/login') {
+    if (location.pathname === '/') {
       return ("");
     }
 

@@ -1,4 +1,3 @@
-
 /* Header */
 .header__root {
     display: flex;
@@ -24,6 +23,15 @@
 
 
 /* Home */
+body {
+    background: var(--primaryColor);
+    background: linear-gradient(
+        0deg, 
+        var(--darkColor) 0%, 
+        var(--primaryColor) 100%);
+    color: var(--darkColor);
+}
+
 .navigation {
     display: flex;
     flex-direction: row;
@@ -64,7 +72,11 @@
 }
 
 .correction {
-    margin-right: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: 2rem;
+    margin-right: 2.5rem;
 }
 
 .copyright {
@@ -76,11 +88,11 @@
     top: 1rem;
     font-family: 'Poppins', sans-serif;
     font-size: small;
-    color: gray;
+    color: var(--primaryColor);
 }
 
+/* Footer */
 footer {
     width: 100%;
-    height: 7rem;
-    background-color: #007990;
+    height: 3rem;
 }

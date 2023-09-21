@@ -1,6 +1,5 @@
 export * from './dates'
 export * from './equivalents'
-export * from './flyer'
 export * from './home'
 export * from '../cms/login'
 export * from './metrics'

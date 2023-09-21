@@ -1,8 +1,33 @@
 {
-    "perfil": [ 
-      {
-        "usuario": "admin",
-        "contraseña": "admin"
-      }
-    ]
-  }
+  "uservalidation": [ 
+    {
+      "usuario": "admin",
+      "contraseña": "admin"
+    }
+  ],
+  "patient": [
+    {
+
+    }
+  ],
+  "programs": [
+    {
+
+    }
+  ],
+  "smae" : [
+    {
+
+    }
+  ],
+  "indicators": [
+    {
+
+    }
+  ],
+  "dates": [
+    {
+
+    }
+  ]
+}

@@ -4,9 +4,9 @@
 }
 
 :root {
-  --primaryColor: lightcyan;
-  --accentColor: #f1f1f1;
-  --darkColor: cyan;
+  --primaryColor: #fff;
+  --accentColor: cyan;
+  --darkColor: #007990;
 }
 
 .login {
@@ -26,19 +26,23 @@
   flex-direction: column;
   border-radius: 14px;
   outline: none;
-  padding-block: 3rem;
+  padding-block: 2rem;
   margin-top: 5rem;
   margin-inline: auto;
   width: 75%;
   max-width: 300px;
   box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
-  background-color: var(--accentColor);
+  background-color: var(--darkColor);
+}
+
+.logo__login {
+  width: 75%;
 }
 
 h2 {
   font-family: Poppins, sans-serif;
-  font-size: 30px;
-  color: black;
+  font-size: 25px;
+  color: var(--primaryColor);
   text-align: center;
 }
 .input__box {
@@ -55,7 +59,7 @@ h2 {
   left: 5px;
   transform: translateY(-50%);
   font-size: 18px;
-  color: darkgrey;
+  color: var(--accentColor);
   pointer-events: none;
   transition: .3s;
 }
@@ -86,7 +90,7 @@ h2 {
   cursor: pointer;
   font-family: Poppins, sans-serif;
   font-size: 20px;
-  color: #fff;
+  color: var(--primaryColor);
   font-weight: 500;
 }
 
