@@ -1,3 +1,5 @@
+
+/* Header */
 .header__root {
     display: flex;
     justify-content: space-between;
@@ -11,7 +13,17 @@
     height: 7rem;
 }
 
+.link {
+    margin: 1.5rem;
+}
 
+.icon__header {
+    width: 32px;
+    margin-right: 1.5rem;
+}
+
+
+/* Home */
 .navigation {
     display: flex;
     flex-direction: row;
@@ -61,9 +73,10 @@
     justify-content: center;
     text-align: center;
     position: relative;
-    top: 50%;
-    font-size: large;
-    color: #fff;
+    top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    color: gray;
 }
 
 footer {

@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
-import IMAGES from '../images/images.jsx'
-import { GrUserSettings, GrLogout } from "react-icons/gr";
+import imageUrls from '../images/images.jsx'
+// import { GrUserSettings, GrLogout } from "react-icons/gr";
 
 export const HEADER = () => {
 
@@ -14,14 +14,16 @@ export const HEADER = () => {
     <>
       <header className="header__root">
         <Link to="/home">
-          <img src={IMAGES.image1} className="logo__header" alt="Nourish me" />
+          <img src={imageUrls.image1} className="logo__header" alt="Nourish me" />
         </Link>
-        <Link to="/settings">
-          <span id="GrUserSettings"><GrUserSettings /></span>
-        </Link>
-        <Link to="/login">
-          <span id="GrLogout"><GrLogout /></span>
-        </Link>
+        <div className="link__box">
+          <Link to="/settings" className="link">
+            <img src={imageUrls.imageSetting} className="icon__header settings" alt="Settings" />
+          </Link>
+          <Link to="/login">
+            <img src={imageUrls.imageLogOut} className="icon__header" alt="Log Out" />          
+          </Link>
+        </div>
       </header>
     </>
   )

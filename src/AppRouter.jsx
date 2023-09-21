@@ -8,7 +8,7 @@ export const AppRouter = () => {
     <div>
       <HEADER />
       <Routes>
-          <Route index element={ <HOME /> }/>
+          <Route path='home' element={ <HOME /> }/>
           <Route path='patient' element={ <PATIENT /> }/>
           <Route path='flyer' element={ <FLYER /> }/>
           <Route path='equivalents' element={ <EQUIVALENTS /> }/>
@@ -16,7 +16,7 @@ export const AppRouter = () => {
           <Route path='dates' element={ <DATES /> }/>            
           <Route path='settings' element={ <SETTINGS /> }/>
 
-        <Route path='login' element={ <LOGIN /> }/>
+        <Route index element={ <LOGIN /> }/>
 
           <Route path='*' element={ <Navigate to='/' /> }/>
       </Routes>
