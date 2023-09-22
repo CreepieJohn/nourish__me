@@ -1,145 +1,1112 @@
 {
     "smae" : [
-        {        
-            "Agua de coco": {
-                "cantidad": "1 1/2",
-                "unidad": "taza",
-                "peso": "360 g"
-            },
-            "Arandano": {
-                "cantidad": "3/4",
-                "unidad": "taza",
-                "peso": "109 g"
-            },
-            "Arandano seco con azucar": {
-                "cantidad": "1/2",
-                "unidad": "taza",
-                "peso": "5 g"
-            },
-            "Arandano congelado": {
-                "cantidad": "3/4",
-                "unidad": "taza",
-                "peso": "116 g"
-            },
-            "Caña de azucar": {
-                "cantidad": "250",
-                "unidad": "gramos",
-                "peso": "250 g"
-            },
-            "Carambolo": {
-                "cantidad": "1 1/2",
-                "unidad": "taza",
-                "peso": "191 g"
-            },
-            "Cereza": {
-                "cantidad": "20",
-                "unidad": "pieza",
-                "peso": "136 g"
-            },
-            "Cerezas congeladas": {
-                "cantidad": "1",
-                "unidad": "taza",
-                "peso": "155 g"
-            },
-            "Cerezas en almibar": {
-                "cantidad": "1/4",
-                "unidad": "taza",
-                "peso": "64 g"
-            },
-            "Cerezas maraschino enlatadas": {
-                "cantidad": "4",
-                "unidad": "pieza",
-                "peso": "20 g"
-            },
-            "Chabacano": {
-                "cantidad": "4",
-                "unidad": "pieza",
-                "peso": "140 g"
-            },
-            "Cherimoya picada": {
-                "cantidad": "1/2",
-                "unidad": "taza",
-                "peso": "109 g"
-            },
-            "Chicozapote": {
-                "cantidad": "1/2",
-                "unidad": "pieza",
-                "peso": "85 g"
-            },
-            "Chirimoya": {
-                "cantidad": "1/3",
-                "unidad": "pieza",
-                "peso": "112 g"
-            },
-            "Ciruela criolla": {
-                "cantidad": "3",
-                "unidad": "pieza",
-                "peso": "198 g"
-            },
-            "Ciruela negra": {
-                "cantidad": "1/2",
-                "unidad": "pieza",
-                "peso": "83 g"
-            },
-            "Ciruela pasa deshuesada": {
-                "cantidad": "7",
-                "unidad": "pieza",
-                "peso": "56 g"
-            },
-            "Cocktail de frutas en almibar": {
-                "cantidad": "1/4",
-                "unidad": "taza",
-                "peso": "62 g"
-            },
-            "Datil seco": {
-                "cantidad": "2",
-                "unidad": "pieza",
-                "peso": "17 g"
-            },
-            "Durazno amarillo": {
-                "cantidad": "2",
-                "unidad": "pieza",
-                "peso": "174 g"
-            },
-            "Durazno con azucar congelado": {
-                "cantidad": "1/4",
-                "unidad": "taza",
-                "peso": "63 g"
-            },
-            "Durazno en almibar": {
-                "cantidad": "1/2",
-                "unidad": "taza",
-                "peso": "126 g"
-            },
-            "Durazno prisco": {
-                "cantidad": "3",
-                "unidad": "pieza",
-                "peso": "150 g"
-            },
-            "Frambuesa": {
-                "cantidad": "1",
-                "unidad": "taza",
-                "peso": "123 g"
-            },
-            "Fresa entera": {
-                "cantidad": "17",
-                "unidad": "pieza med",
-                "peso": "204 g"
-            },
-            "Fresa rebanada": {
-                "cantidad": "1",
-                "unidad": "taza",
-                "peso": "166 g"
-            },
-            "Fresa congelada con azucar": {
-                "cantidad": "1/4",
-                "unidad": "taza",
-                "peso": "64 g"
-            },
-            "Fresas congeladas sin azucar": {
-                "cantidad": "1/2",
-                "unidad": "taza",
-                "peso": "111 g"
+        {
+            "Frutas": {
+                "Acai": {
+                    "cantidad": "4",
+                    "unidad": "cucharada",
+                    "peso": "24 g"
+                },
+                "Agua de coco": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "360 g"
+                },
+                "Albaricoque en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "65 g"
+                },
+                "Anona": {
+                    "cantidad": "130",
+                    "unidad": "gramos",
+                    "peso": "130 g"
+                },
+                "Arandano": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "109 g"
+                },
+                "Arandano seco con azucar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "5 g"
+                },
+                "Arandano congelado": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "116 g"
+                },
+                "Caña de azucar": {
+                    "cantidad": "250",
+                    "unidad": "gramos",
+                    "peso": "250 g"
+                },
+                "Capulin": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "480 g"
+                },
+                "Carambolo": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "191 g"
+                },
+                "Cereza": {
+                    "cantidad": "20",
+                    "unidad": "pieza",
+                    "peso": "136 g"
+                },
+                "Cerezas congeladas": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "155 g"
+                },
+                "Cerezas en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "64 g"
+                },
+                "Cerezas maraschino enlatadas": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "20 g"
+                },
+                "Chabacano": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "140 g"
+                },
+                "Cherimoya picada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "109 g"
+                },
+                "Chicozapote": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "85 g"
+                },
+                "Chirimoya": {
+                    "cantidad": "1/3",
+                    "unidad": "pieza",
+                    "peso": "112 g"
+                },
+                "Ciruela criolla": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "198 g"
+                },
+                "Ciruela negra": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "83 g"
+                },
+                "Ciruela pasa deshuesada": {
+                    "cantidad": "7",
+                    "unidad": "pieza",
+                    "peso": "56 g"
+                },
+                "Cocktail de frutas en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "62 g"
+                },
+                "Datil seco": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "17 g"
+                },
+                "Durazno amarillo": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "174 g"
+                },
+                "Durazno con azucar congelado": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "63 g"
+                },
+                "Durazno en almibar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "126 g"
+                },
+                "Durazno prisco": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "150 g"
+                },
+                "Frambuesa": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "123 g"
+                },
+                "Fresa entera": {
+                    "cantidad": "17",
+                    "unidad": "pieza med",
+                    "peso": "204 g"
+                },
+                "Fresa rebanada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "166 g"
+                },
+                "Fresa congelada con azucar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "64 g"
+                },
+                "Fresas congeladas sin azucar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "111 g"
+                },
+                "Fruta de la pasion": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "165 g"
+                },
+                "Fruta picada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "140 g"
+                },
+                "Fruto del pan": {
+                    "cantidad": "85",
+                    "unidad": "gramos",
+                    "peso": "85 g"
+                },
+                "Gajos de mandarina": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "105 g"
+                },
+                "Gajos de naranja": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Gajos de toronja": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Giotilla": {
+                    "cantidad": "200",
+                    "unidad": "gramos",
+                    "peso": "200 g"
+                },
+                "Goyi berries": {
+                    "cantidad": "3",
+                    "unidad": "cucharada",
+                    "peso": "18 g"
+                },
+                "Granada china": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "120 g"
+                },
+                "Granada roja": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "190 g"
+                },
+                "Grosella": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Grosella en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "63 g"
+                },
+                "Grosella negra": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "112 g"
+                },
+                "Grosella roja o blanca": {
+                    "cantidad": "0",
+                    "unidad": "taza",
+                    "peso": "112 g"
+                },
+                "Guamuchil": {
+                    "cantidad": "60",
+                    "unidad": "gramos",
+                    "peso": "60 g"
+                },
+                "Guanabana": {
+                    "cantidad": "1",
+                    "unidad": "pieza chica",
+                    "peso": "350 g"
+                },
+                "Guanabana cimarrona": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "350 g"
+                },
+                "Guayaba": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "135 g"
+                },
+                "Guayaba rosa": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Guayaba en almibar": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "45 g"
+                },
+                "Higo": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "80 g"
+                },
+                "Higo deshidratado": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "19 g"
+                },
+                "Jinicuil": {
+                    "cantidad": "250",
+                    "unidad": "gramos",
+                    "peso": "250 g"
+                },
+                "Jugo de arandano natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "123 g"
+                },
+                "Jugo de fresa natural": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "192 g"
+                },
+                "Jugo de guayaba natural": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Jugo de limon natural": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "180 g"
+                },
+                "Jugo de mamey natural": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "80 g"
+                },
+                "Jugo de mandarina natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Jugo de mango natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Jugo de manzana natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "129 g"
+                },
+                "Jugo de naranja natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Jugo de papaya natural": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "79 g"
+                },
+                "Jugo de piña natural": {
+                    "cantidad": "4/9",
+                    "unidad": "taza",
+                    "peso": "117 g"
+                },
+                "Jugo de toronja natural": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "kiwi": {
+                    "cantidad": "1 1/2",
+                    "unidad": "pieza",
+                    "peso": "132 g"
+                },
+                "Lichis": {
+                    "cantidad": "12",
+                    "unidad": "pieza",
+                    "peso": "180 g"
+                },
+                "Lima": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "234 g"
+                },
+                "Limon real": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "232 g"
+                },
+                "Mamey": {
+                    "cantidad": "1/3",
+                    "unidad": "pieza",
+                    "peso": "137 g"
+                },
+                "Mandarina": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "180 g"
+                },
+                "Mandarina reyna": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "200 g"
+                },
+                "Mango ataulfo": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "95 g"
+                },
+                "Mango criollo": {
+                    "cantidad": "1 1/2",
+                    "unidad": "pieza",
+                    "peso": "300 g"
+                },
+                "Mango deshidratado": {
+                    "cantidad": "19",
+                    "unidad": "gramos",
+                    "peso": "19 g"
+                },
+                "Mango en almibar": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "61 g"
+                },
+                "Mango enchilado": {
+                    "cantidad": "17",
+                    "unidad": "gramos",
+                    "peso": "17 g"
+                },
+                "Mango manila": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "207 g"
+                },
+                "Mango petacon": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "200 g"
+                },
+                "Mango picado": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "165 g"
+                },
+                "Mangosteno enlatado en jarabe": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "98 g"
+                },
+                "Manzana": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "138 g"
+                },
+                "Manzana al vapor": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "86 g"
+                },
+                "Manzana amarilla": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "130 g"
+                },
+                "Manzana cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "86 g"
+                },
+                "Manzana deshidratada": {
+                    "cantidad": "9",
+                    "unidad": "orejones",
+                    "peso": "23 g"
+                },
+                "Manzana en almibar": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "24 g"
+                },
+                "Manzana golden": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "130 g"
+                },
+                "Manzana granny": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "93 g"
+                },
+                "Manzana picada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "75 g"
+                },
+                "Manzana roja": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "185 g"
+                },
+                "Manzana sin cascara": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "128 g"
+                },
+                "Manzana verde": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "93 g"
+                },
+                "Manzana Washington": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "93 g"
+                },
+                "Maracuya": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "150 g"
+                },
+                "Maracuya rebanado": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "69 g"
+                },
+                "Marañon fresco": {
+                    "cantidad": "190",
+                    "unidad": "gramos",
+                    "peso": "190 g"
+                },
+                "Melon": {
+                    "cantidad": "1/3",
+                    "unidad": "pieza",
+                    "peso": "271 g"
+                },
+                "Melon cantaloupe": {
+                    "cantidad": "1/3",
+                    "unidad": "pieza",
+                    "peso": "271 g"
+                },
+                "Melon chino": {
+                    "cantidad": "1/4",
+                    "unidad": "pieza",
+                    "peso": "219 g"
+                },
+                "Melon picado": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "160 g"
+                },
+                "Melon valenciano": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "271 g"
+                },
+                "Melon valenciano picado": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "160 g"
+                },
+                "Melon verde picado": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "160 g"
+                },
+                "Membrillo": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "163 g"
+                },
+                "Moras": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "108 g"
+                },
+                "Nanche agrio": {
+                    "cantidad": "45",
+                    "unidad": "pieza",
+                    "peso": "225 g"
+                },
+                "Naranja": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "242 g"
+                },
+                "Naranja agria": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "200 g"
+                },
+                "Naranja cajera": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "220 g"
+                },
+                "Naranja china": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "140 g"
+                },
+                "Naranja sin semilla": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "201 g"
+                },
+                "Naranja valenciana": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "242 g"
+                },
+                "Naranja concentrada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "130 g"
+                },
+                "Nectarina": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "136 g"
+                },
+                "Nispero": {
+                    "cantidad": "25",
+                    "unidad": "pieza",
+                    "peso": "350 g"
+                },
+                "Nispero del japon": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "180 g"
+                },
+                "Orejones de chabacano": {
+                    "cantidad": "7",
+                    "unidad": "pieza",
+                    "peso": "25 g"
+                },
+                "Orejones de durazno": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "26 g"
+                },
+                "Orejones de manzana": {
+                    "cantidad": "9",
+                    "unidad": "pieza",
+                    "peso": "23 g"
+                },
+                "Orejones de pera": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "18 g"
+                },
+                "papaya hawaiana": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza chica",
+                    "peso": "152 g"
+                },
+                "Papaya picada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "140 g"
+                },
+                "Papilla de chabacano con tapioca": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de ciruela pasa con tapioca": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de durazno": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de frutas mixtas": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de guayaba y papaya con tapioca": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de mango con tapioca": {
+                    "cantidad": "2/3",
+                    "unidad": "frasco",
+                    "peso": "85 g"
+                },
+                "Papilla de manzana": {
+                    "cantidad": "2/3",
+                    "unidad": "frasco",
+                    "peso": "85 g"
+                },
+                "Papilla de manzana y chabacano": {
+                    "cantidad": "1",
+                    "unidad": "frasco",
+                    "peso": "130 g"
+                },
+                "Papilla de pera": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Papilla de pera y piña": {
+                    "cantidad": "1",
+                    "unidad": "frasco",
+                    "peso": "130 g"
+                },
+                "Papilla de platano y piña con tapioca": {
+                    "cantidad": "3/4",
+                    "unidad": "frasco",
+                    "peso": "98 g"
+                },
+                "Pasas": {
+                    "cantidad": "10",
+                    "unidad": "pieza",
+                    "peso": "20 g"
+                },
+                "Pasas sin semilla": {
+                    "cantidad": "10",
+                    "unidad": "pieza",
+                    "peso": "20 g"
+                },
+                "Pera": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "95 g"
+                },
+                "Pera asiatica": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "138 g"
+                },
+                "Pera bartlett": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "91 g"
+                },
+                "Pera d'anjou": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "95 g"
+                },
+                "Pera de agua": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "91 g"
+                },
+                "Pera de san juan": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "130 g"
+                },
+                "Pera deshidratada": {
+                    "cantidad": "1",
+                    "unidad": "orejon",
+                    "peso": "18 g"
+                },
+                "Pera en almibar": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "76 g"
+                },
+                "Pera mantequilla": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "83 g"
+                },
+                "Pera picada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Pera piña": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "100 g"
+                },
+                "Pera rebanada": {
+                    "cantidad": "2/3",
+                    "unidad": "pieza",
+                    "peso": "98 g"
+                },
+                "Pera roja": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Pera roja rebanada": {
+                    "cantidad": "1/",
+                    "unidad": "taza",
+                    "peso": "80 g"
+                },
+                "Peron": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "150 g"
+                },
+                "Persimo": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "50 g"
+                },
+                "Persimo japones": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "84 g"
+                },
+                "Piña deshidratada enchilada": {
+                    "cantidad": "17",
+                    "unidad": "gramos",
+                    "peso": "17 g"
+                },
+                "Piña en almibar": {
+                    "cantidad": "1",
+                    "unidad": "rebanada",
+                    "peso": "50 g"
+                },
+                "Piña en almibar picada": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "63 g"
+                },
+                "Piña picada": {
+                    "cantidad": "3/4",
+                    "unidad": "taza",
+                    "peso": "124 g"
+                },
+                "Piña rebanada": {
+                    "cantidad": "1",
+                    "unidad": "rebanada",
+                    "peso": "84 g"
+                },
+                "Pitahaya": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "240 g"
+                },
+                "Platano": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "80 g"
+                },
+                "platano deshidratado": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "20 g"
+                },
+                "Platano dominico": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "105 g"
+                },
+                "Platano machacado": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "56 g"
+                },
+                "Platano macho": {
+                    "cantidad": "1/4",
+                    "unidad": "pieza",
+                    "peso": "95 g"
+                },
+                "Platano macho rebanado": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "51 g"
+                },
+                "Platano manzano": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Platano morado": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Pomarosa": {
+                    "cantidad": "140",
+                    "unidad": "gramos",
+                    "peso": "140 g"
+                },
+                "Pomelo": {
+                    "cantidad": "260",
+                    "unidad": "gramos",
+                    "peso": "260 g"
+                },
+                "Prisco": {
+                    "cantidad": "3 1/2",
+                    "unidad": "pieza",
+                    "peso": "175 g"
+                },
+                "Pulpa de fresa": {
+                    "cantidad": "2",
+                    "unidad": "cucharada",
+                    "peso": "25 g"
+                },
+                "Pulpa de guanabana": {
+                    "cantidad": "2",
+                    "unidad": "cucharada",
+                    "peso": "25 g"
+                },
+                "Pulpa de mamey": {
+                    "cantidad": "6",
+                    "unidad": "cucharada",
+                    "peso": "75 g"
+                },
+                "Pulpa de tamarindo": {
+                    "cantidad": "8",
+                    "unidad": "cucharada",
+                    "peso": "100 g"
+                },
+                "Pulpa de zapote negro": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "105 g"
+                },
+                "Pure de ciruela pasa": {
+                    "cantidad": "3",
+                    "unidad": "cucharada",
+                    "peso": "41 g"
+                },
+                "Pure de guayaba": {
+                    "cantidad": "1/2",
+                    "unidad": "frasco",
+                    "peso": "65 g"
+                },
+                "Pure de guayaba Gerber 2A etapa": {
+                    "cantidad": "1/2",
+                    "unidad": "frasco",
+                    "peso": "65 g"
+                },
+                "Pure de manzana": {
+                    "cantidad": "6",
+                    "unidad": "cucharada",
+                    "peso": "83 g"
+                },
+                "Pure de manzana sin azucar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "122 g"
+                },
+                "Pure de platano": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "56 g"
+                },
+                "Rambutan": {
+                    "cantidad": "7",
+                    "unidad": "pieza",
+                    "peso": "175 g"
+                },
+                "Rambutan en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "54 g"
+                },
+                "Rollo de frutas": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "21 g"
+                },
+                "Salsa de arandano en gelatina enlatada": {
+                    "cantidad": "1/2",
+                    "unidad": "rebanada",
+                    "peso": "29 g"
+                },
+                "Sandia picada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "160 g"
+                },
+                "Sandia rebanada": {
+                    "cantidad": "1",
+                    "unidad": "rebanada",
+                    "peso": "200 g"
+                },
+                "Saramuyo": {
+                    "cantidad": "130",
+                    "unidad": "gramos",
+                    "peso": "130 g"
+                },
+                "Semilla de jinicuil": {
+                    "cantidad": "200",
+                    "unidad": "gramos",
+                    "peso": "200 g"
+                },
+                "Tamarindo": {
+                    "cantidad": "50",
+                    "unidad": "gramos",
+                    "peso": "50 g"
+                },
+                "Tamarindo (pulpa sin azucar)": {
+                    "cantidad": "8",
+                    "unidad": "cucharada",
+                    "peso": "100 g"
+                },
+                "Tamarindo pelado": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "30 g"
+                },
+                "Tangerina": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "180 g"
+                },
+                "Tejocote": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "70 g"
+                },
+                "Toronja": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "246 g"
+                },
+                "Toronja en gajos": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Toronja en almibar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "127 g"
+                },
+                "Tuna": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "250 g"
+                },
+                "Tuna cardona": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "250 g"
+                },
+                "Tuna picada": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Tuna roja": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "250 g"
+                },
+                "Uva": {
+                    "cantidad": "18",
+                    "unidad": "pieza",
+                    "peso": "126 g"
+                },
+                "Uva blanca": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Uva con semilla": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Uva roja": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Uva sin semilla": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Uva verde": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Uva verde sin semilla": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Uva enlatada en agua": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "123 g"
+                },
+                "Xocoyol": {
+                    "cantidad": "900",
+                    "unidad": "gramos",
+                    "peso": "900 g"
+                },
+                "Zapote": {
+                    "cantidad": "1/4",
+                    "unidad": "pieza",
+                    "peso": "56 g"
+                },
+                "Zapote amarillo": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "152 g"
+                },
+                "Zapote blanco": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "152 g"
+                },
+                "Zapote borracho": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "75 g"
+                },
+                "Zapote negro": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Zapote negro limpio": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "115 g"
+                },
+                "Zarzamora": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Zarzamora congelada sin azucar": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "76 g"
+                },
+                "Zarzamora en almibar": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "64 g"
+                }
             }
         }
     ]
