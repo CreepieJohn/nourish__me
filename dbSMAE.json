@@ -1,0 +1,146 @@
+{
+    "smae" : [
+        {        
+            "Agua de coco": {
+                "cantidad": "1 1/2",
+                "unidad": "taza",
+                "peso": "360 g"
+            },
+            "Arandano": {
+                "cantidad": "3/4",
+                "unidad": "taza",
+                "peso": "109 g"
+            },
+            "Arandano seco con azucar": {
+                "cantidad": "1/2",
+                "unidad": "taza",
+                "peso": "5 g"
+            },
+            "Arandano congelado": {
+                "cantidad": "3/4",
+                "unidad": "taza",
+                "peso": "116 g"
+            },
+            "Caña de azucar": {
+                "cantidad": "250",
+                "unidad": "gramos",
+                "peso": "250 g"
+            },
+            "Carambolo": {
+                "cantidad": "1 1/2",
+                "unidad": "taza",
+                "peso": "191 g"
+            },
+            "Cereza": {
+                "cantidad": "20",
+                "unidad": "pieza",
+                "peso": "136 g"
+            },
+            "Cerezas congeladas": {
+                "cantidad": "1",
+                "unidad": "taza",
+                "peso": "155 g"
+            },
+            "Cerezas en almibar": {
+                "cantidad": "1/4",
+                "unidad": "taza",
+                "peso": "64 g"
+            },
+            "Cerezas maraschino enlatadas": {
+                "cantidad": "4",
+                "unidad": "pieza",
+                "peso": "20 g"
+            },
+            "Chabacano": {
+                "cantidad": "4",
+                "unidad": "pieza",
+                "peso": "140 g"
+            },
+            "Cherimoya picada": {
+                "cantidad": "1/2",
+                "unidad": "taza",
+                "peso": "109 g"
+            },
+            "Chicozapote": {
+                "cantidad": "1/2",
+                "unidad": "pieza",
+                "peso": "85 g"
+            },
+            "Chirimoya": {
+                "cantidad": "1/3",
+                "unidad": "pieza",
+                "peso": "112 g"
+            },
+            "Ciruela criolla": {
+                "cantidad": "3",
+                "unidad": "pieza",
+                "peso": "198 g"
+            },
+            "Ciruela negra": {
+                "cantidad": "1/2",
+                "unidad": "pieza",
+                "peso": "83 g"
+            },
+            "Ciruela pasa deshuesada": {
+                "cantidad": "7",
+                "unidad": "pieza",
+                "peso": "56 g"
+            },
+            "Cocktail de frutas en almibar": {
+                "cantidad": "1/4",
+                "unidad": "taza",
+                "peso": "62 g"
+            },
+            "Datil seco": {
+                "cantidad": "2",
+                "unidad": "pieza",
+                "peso": "17 g"
+            },
+            "Durazno amarillo": {
+                "cantidad": "2",
+                "unidad": "pieza",
+                "peso": "174 g"
+            },
+            "Durazno con azucar congelado": {
+                "cantidad": "1/4",
+                "unidad": "taza",
+                "peso": "63 g"
+            },
+            "Durazno en almibar": {
+                "cantidad": "1/2",
+                "unidad": "taza",
+                "peso": "126 g"
+            },
+            "Durazno prisco": {
+                "cantidad": "3",
+                "unidad": "pieza",
+                "peso": "150 g"
+            },
+            "Frambuesa": {
+                "cantidad": "1",
+                "unidad": "taza",
+                "peso": "123 g"
+            },
+            "Fresa entera": {
+                "cantidad": "17",
+                "unidad": "pieza med",
+                "peso": "204 g"
+            },
+            "Fresa rebanada": {
+                "cantidad": "1",
+                "unidad": "taza",
+                "peso": "166 g"
+            },
+            "Fresa congelada con azucar": {
+                "cantidad": "1/4",
+                "unidad": "taza",
+                "peso": "64 g"
+            },
+            "Fresas congeladas sin azucar": {
+                "cantidad": "1/2",
+                "unidad": "taza",
+                "peso": "111 g"
+            }
+        }
+    ]
+}
