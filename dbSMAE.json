@@ -1107,7 +1107,544 @@
                     "unidad": "taza",
                     "peso": "64 g"
                 }
-            }
+            },
+            "Verduras": {
+                "Acelga cruda": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Acelga cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "72 g"
+                },
+                "Alcachofa nediana cocida": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Alfalfa": {
+                    "cantidad": "3 /12",
+                    "unidad": "taza",
+                    "peso": "116 g"
+                },
+                "Alga nori": {
+                    "cantidad": "10",
+                    "unidad": "gramos",
+                    "peso": "10 g"
+                },
+                "Apio cocido": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "75 g"
+                },
+                "Apio crudo": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "101 g"
+                },
+                "Arugula cruda": {
+                    "cantidad": "4",
+                    "unidad": "taza",
+                    "peso": "80 g"
+                },
+                "Berenjena cocida": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "99 g"
+                },
+                "Berro crudo": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "68 g"
+                },
+                "Betabel crudo": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "43 g"
+                },
+                "Betabel crudo rallado": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "38 g"
+                },
+                "Bledos crudo": {
+                    "cantidad": "150",
+                    "unidad": "gramos",
+                    "peso": "150 g"
+                },
+                "Brocoli cocido": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "92 g"
+                },
+                "Brocoli crudo": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "88 g"
+                },
+                "Calabacita alargada cruda": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "111 g"
+                },
+                "Calabacita redonda": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "100 g"
+                },
+                "Calabaza de castilla cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "110 g"
+                },
+                "Calabaza zapallo cocida": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "55 g"
+                },
+                "Cebolla blanca rebanada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "58 g"
+                },
+                "Cebolla cocida": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "53 g"
+                },
+                "Cebolla morada rebanada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "58 g"
+                },
+                "Cebolla cambray sin raiz": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "75 g"
+                },
+                "Cebollitas en salmuera": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "95 g"
+                },
+                "Champiñon cocido entero": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "78 g"
+                },
+                "Champiñon cocido rebanado": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "70 g"
+                },
+                "Champiñon crudo entero": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "96 g"
+                },
+                "Champiñon crudo rebanado": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "105 g"
+                },
+                "Chaya": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "147 g"
+                },
+                "Chayote cocido picado": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "80 g"
+                },
+                "chayote crudo": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "102 g"
+                },
+                "Chepil crudo": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "68 g"
+                },
+                "Chicharo cocido": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "40 g"
+                },
+                "Chicharo crudo con vaina": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "73 g"
+                },
+                "Chicharo en vaina cocido": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "53 g"
+                },
+                "Chicharos y zanahorias congelados": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "48 g"
+                },
+                "Chicoria cruda": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "141 g"
+                },
+                "Chilacas crudas": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "90 g"
+                },
+                "Chilacayote crudo": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Chile ancho": {
+                    "cantidad": "6",
+                    "unidad": "gramos",
+                    "peso": "6 g"
+                },
+                "Chile chilaca": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "60 g"
+                },
+                "Chile chipotle seco": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "10 g"
+                },
+                "Chile costeño": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "64 g"
+                },
+                "Chile cristalino": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "64 g"
+                },
+                "Chile cuaresmeño": {
+                    "cantidad": "2",
+                    "unidad": "pieza",
+                    "peso": "60 g"
+                },
+                "Chile de arbol seco": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "8 g"
+                },
+                "Chile en escabeche": {
+                    "cantidad": "150",
+                    "unidad": "gramos",
+                    "peso": "150 g"
+                },
+                "Chile guajillo": {
+                    "cantidad": "7",
+                    "unidad": "gramos",
+                    "peso": "7 g"
+                },
+                "Chile habanero": {
+                    "cantidad": "5",
+                    "unidad": "pieza",
+                    "peso": "80 g"
+                },
+                "Chile jalapeño": {
+                    "cantidad": "6",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Chile morita": {
+                    "cantidad": "7",
+                    "unidad": "gramos",
+                    "peso": "7 g"
+                },
+                "Chile mulato": {
+                    "cantidad": "8",
+                    "unidad": "gramos",
+                    "peso": "8 g"
+                },
+                "Chile nacho (lata)": {
+                    "cantidad": "92",
+                    "unidad": "gramos",
+                    "peso": "92 g"
+                },
+                "Chile pasilla": {
+                    "cantidad": "7",
+                    "unidad": "gramos",
+                    "peso": "7 g"
+                },
+                "Chile poblano": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "40 g"
+                },
+                "Chile serrano": {
+                    "cantidad": "56",
+                    "unidad": "gramos",
+                    "peso": "56 g"
+                },
+                "Chiles en vinagre": {
+                    "cantidad": "150",
+                    "unidad": "gramos",
+                    "peso": "150 g"
+                },
+                "Chiles secos": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "10 g"
+                },
+                "Cilantro picado crudo": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Clavito (hongo) crudo": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "75 g"
+                },
+                "Col cocida picada": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "75 g"
+                },
+                "Col cruda picada": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "140 g"
+                },
+                "Col morada cruda picada": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "70 g"
+                },
+                "Col de bruselas": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "63 g"
+                },
+                "Coliflor cocida": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "125 g"
+                },
+                "Coliflor cruda": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "200 g"
+                },
+                "Coliflor verde cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "68 g"
+                },
+                "Coliflor verde cruda": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "128 g"
+                },
+                "Colinabo crudo": {
+                    "cantidad": "1/2",
+                    "unidad": "pieza",
+                    "peso": "85 g"
+                },
+                "Corazon de alcachofa crudo": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "25 g"
+                },
+                "Corazon de lechuga crudo": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "30 g"
+                },
+                "Corazon de palmito crudo": {
+                    "cantidad": "3",
+                    "unidad": "pieza",
+                    "peso": "99 g"
+                },
+                "Creson cocido": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "135 g"
+                },
+                "Creson limpio crudo": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "100 g"
+                },
+                "Crucetas crudas": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "149 g"
+                },
+                "cuiclacoche cocido": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "66 g"
+                },
+                "Echalot": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "40 g"
+                },
+                "Edamame": {
+                    "cantidad": "1/7",
+                    "unidad": "taza",
+                    "peso": "27 g"
+                },
+                "Ejotes cocidos picados": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "63 g"
+                },
+                "Elotito cambray": {
+                    "cantidad": "8",
+                    "unidad": "pieza",
+                    "peso": "64 g"
+                },
+                "Endivia cruda": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "150 g"
+                },
+                "Esparragos": {
+                    "cantidad": "6",
+                    "unidad": "pieza",
+                    "peso": "90 g"
+                },
+                "Espinaca cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "90 g"
+                },
+                "Espinaca cruda": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "120 g"
+                },
+                "Flor de calabaza cocida": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "134 g"
+                },
+                "Flor de calabaza cruda": {
+                    "cantidad": "4",
+                    "unidad": "taza",
+                    "peso": "132 g"
+                },
+                "Flor de colorin cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "40 g"
+                },
+                "Flor de colorin cruda": {
+                    "cantidad": "1",
+                    "unidad": "taza",
+                    "peso": "40 g"
+                },
+                "Flor de garambullo cruda": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "60 g"
+                },
+                "Flor de maguey cruda": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "60 g"
+                },
+                "Flor de yuca cruda": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "50 g"
+                },
+                "Germen de alfalfa crudo": {
+                    "cantidad": "3",
+                    "unidad": "taza",
+                    "peso": "99 g"
+                },
+                "Germen de lenteja crudo": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "19 g"
+                },
+                "Germen de soya cocido": {
+                    "cantidad": "1/3",
+                    "unidad": "taza",
+                    "peso": "31 g"
+                },
+                "Germinado de lenteja": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "17 g"
+                },
+                "Haba verde": {
+                    "cantidad": "4",
+                    "unidad": "pieza",
+                    "peso": "32 g"
+                },
+                "Hoja de amaranto cocida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": " 90g"
+                },
+                "Hoja de amaranto cruda": {
+                    "cantidad": "1 1/2",
+                    "unidad": "taza",
+                    "peso": "90 g"
+                },
+                "Hoja de chicoria cruda": {
+                    "cantidad": "2 1/2",
+                    "unidad": "taza",
+                    "peso": "118 g"
+                },
+                "Hoja de diente de leon": {
+                    "cantidad": "2",
+                    "unidad": "taza",
+                    "peso": "40 g"
+                },
+                "Hoja de parra": {
+                    "cantidad": "23",
+                    "unidad": "gramos",
+                    "peso": "23 g"
+                },
+                "Hoja de pata de paloma": {
+                    "cantidad": "1/4",
+                    "unidad": "taza",
+                    "peso": "25 g"
+                },
+                "Hoja de remolacha cruda": {
+                    "cantidad": "2",
+                    "unidad": "hoja",
+                    "peso": "64 g"
+                },
+                "Hoja de remolacha hervida": {
+                    "cantidad": "1/2",
+                    "unidad": "taza",
+                    "peso": "72 g"
+                },
+                "Hongo portobello crudo": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "84 g"
+                },
+                "Hongo shiitake deshidratado": {
+                    "cantidad": "1",
+                    "unidad": "pieza",
+                    "peso": "4 g"
+                },
+                "Hongo crudo": {
+                    "cantidad": "",
+                    "unidad": "",
+                    "peso": " g"
+                }
+            }    
         }
     ]
 }
