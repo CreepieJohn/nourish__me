@@ -23,6 +23,7 @@
 
 
 /* Home */
+
 body {
     background: var(--primaryColor);
     background: linear-gradient(
@@ -92,7 +93,20 @@ body {
 }
 
 /* Footer */
+
 footer {
     width: 100%;
     height: 3rem;
 }
+
+/* Equivalents */
+
+/* .equivalent__fruit {
+    background-color: #f00;
+}
+.equivalent__vegetable {
+    background-color: #34b912;
+}
+.equivalent__cereal {
+    background-color: #ff8000;
+} */

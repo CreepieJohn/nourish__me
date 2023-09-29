@@ -28,7 +28,7 @@ export function LOGIN() {
       const contraseña = document.getElementById("contraseña").value;
 
       // Realiza una solicitud fetch para obtener los datos de db.json
-      fetch('http://localhost:3000/db.json')
+      fetch('http://localhost:3000/dataBase/db.json')
       .then(response => response.json())
       .then(data => {
 

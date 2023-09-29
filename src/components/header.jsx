@@ -1,8 +1,7 @@
 import { Link, useLocation } from 'react-router-dom';
 import imageUrls from '../images/images.jsx'
-// import { GrUserSettings, GrLogout } from "react-icons/gr";
 
-export const HEADER = () => {
+export const HEADER = () => { 
 
   const location = useLocation();
   
