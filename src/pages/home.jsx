@@ -8,27 +8,27 @@ export function HOME() {
                 <nav className="navigation">
                     <Link to="/patient" className="single">
                         <label className="list__label">
-                            <span>MIS PACIENTES</span>
+                            MIS PACIENTES
                         </label>
                     </Link>
                     <Link to="/flyer" className="double">
                         <label className="list__label correction">
-                            <span>PROGRAMAS</span>
+                            PROGRAMAS
                         </label>
                     </Link>
                     <Link to="/equivalents" className="double">
                         <label className="list__label correction">
-                            <span>SMAE</span>
+                            SMAE
                         </label>
                     </Link>
                     <Link to="/metrics" className="double margin__correction">
                         <label className="list__label correction">
-                            <span>INDICADORES</span>
+                            INDICADORES
                         </label>
                     </Link>
                     <Link to="/dates" className="double margin__correction">
                         <label className="list__label correction">
-                            <span>MIS CITAS</span>
+                            MIS CITAS
                         </label>
                     </Link>
                 </nav>
