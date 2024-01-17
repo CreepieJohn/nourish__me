@@ -9,6 +9,10 @@ export const HEADER = () => {
       return ("");
     }
 
+    if (location.pathname === '/logError') {
+      return ("");
+    }
+
   return (
     <>
       <header className="header__root">

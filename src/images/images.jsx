@@ -6,7 +6,11 @@ const imageUrls = {
     imageFruits : new URL("./icons8-fruits-64.png", import.meta.url).href,
     imageVegetable : new URL("./icons8-vegetables-60.png", import.meta.url).href,
     imageCereals : new URL("./icons8-wheat-66.png", import.meta.url).href,
-
+    imageMeat : new URL("./icons8-ganado-50.png", import.meta.url).href,
+    imageMilk : new URL("./icons8-lechería-64.png", import.meta.url).href,
+    imageHoney : new URL("./icons8-miel-100.png", import.meta.url).href,
+    imageOil : new URL("./icons8-aguacate-64.png", import.meta.url).href,
+    imageBeans : new URL("./icons8-soja-50.png", import.meta.url).href,
 };
 
 export default imageUrls;
